@@ -15,6 +15,9 @@
 - 計算相對距離，讓使用者可以更精確地估算到達時間。
 - 顯示目前所在位置，讓使用者可以更方便地辨識自己的位置。
 
+<img src="https://user-images.githubusercontent.com/86880683/226327607-df0c7e30-b3c3-4705-bf7f-f31b7c34eb74.gif" width=850></img>
+
+
 ## 如何使用
 1. 下載並安裝此應用程式
 2. 開啟應用程式後，地圖會自動顯示宜蘭大學校園
@@ -26,12 +29,10 @@
 1. https://github.com/IdONTKnowCHEK/NiuMap/releases/tag/APK
 2. 安裝APK於Android裝置上運行
 
-or
+### clone 此存儲庫：
 
-clone 此存儲庫：
-
-git clone https://github.com/your_username/android-indoor-maps-navigation.git
-使用 Android Studio 打開專案並安裝到裝置。
+1. git clone https://github.com/your_username/android-indoor-maps-navigation.git
+2. 使用 Android Studio 打開專案並安裝到裝置。
 
 ## 配置
 1. 為了使用 Google Maps API，您需要將自己的 API 金鑰添加到專案中。請遵循以下步驟：
