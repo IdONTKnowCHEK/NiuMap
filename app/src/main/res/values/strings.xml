@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NiuMap</string>
+    <string name="Map">Map</string>
+    <string name="List">List</string>
+    <string name="Search">Search</string>
+    <string name="Detail">詳細資料：</string>
+
+</resources>

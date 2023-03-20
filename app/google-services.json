@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "401862136054",
+    "project_id": "niu-map-89278",
+    "storage_bucket": "niu-map-89278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401862136054:android:49a28ef59c2f07c50e1cd7",
+        "android_client_info": {
+          "package_name": "niu.edu.niumap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401862136054-f3d0j8esq74c36t9i7b1ckqt5d8iv3cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXHb65zAFE-1F5eUnYPbS-Y_OnIdzo4XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401862136054-f3d0j8esq74c36t9i7b1ckqt5d8iv3cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
