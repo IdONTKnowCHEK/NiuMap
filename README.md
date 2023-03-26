@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td colspan="4">
-      <img src="https://user-images.githubusercontent.com/86880683/226327607-df0c7e30-b3c3-4705-bf7f-f31b7c34eb74.gif" width=850></img>
+      <img src="https://user-images.githubusercontent.com/86880683/226327607-df0c7e30-b3c3-4705-bf7f-f31b7c34eb74.gif" width=800></img>
     </td>
   </tr>
   <tr>
