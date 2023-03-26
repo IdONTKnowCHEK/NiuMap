@@ -15,8 +15,32 @@
 - 提供快速導航功能，幫助使用者快速到達目的地。
 - 計算相對距離，讓使用者可以更精確地估算到達時間。
 - 顯示目前所在位置，讓使用者可以更方便地辨識自己的位置。
-
-<img src="https://user-images.githubusercontent.com/86880683/226327607-df0c7e30-b3c3-4705-bf7f-f31b7c34eb74.gif" width=850></img>
+<table>
+  <tr>
+    <th colspan="4"> 
+        使用範例
+    </th>
+  </tr>
+  <tr>
+    <td colspan="4">
+      <img src="https://user-images.githubusercontent.com/86880683/226327607-df0c7e30-b3c3-4705-bf7f-f31b7c34eb74.gif" width=850></img>
+    </td>
+  </tr>
+  <tr>
+    <th> 
+        地圖首頁
+    </th>
+    <th> 
+        地點查詢
+    </th>
+    <th> 
+        列表清單
+    </th>
+    <th> 
+        自動導航
+    </th>
+  </tr>
+</table>
 
 
 ## 如何使用
