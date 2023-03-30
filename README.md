@@ -51,12 +51,12 @@
 5. 使用者可以跟隨地圖上的指示導航至目的地
 
 ## 如何安裝
-1. Release v1.0.0(https://github.com/IdONTKnowCHEK/NiuMap/releases/tag/APK)
+1. [Release v1.0.0](https://github.com/IdONTKnowCHEK/NiuMap/releases/tag/APK)
 2. 安裝APK於Android裝置上運行
 
 ### clone 此存儲庫：
 
-1. git clone https://github.com/your_username/android-indoor-maps-navigation.git
+1. ```git clone https://github.com/IdONTKnowCHEK/NiuMap.git```
 2. 使用 Android Studio 打開專案並安裝到裝置。
 
 ## 配置
