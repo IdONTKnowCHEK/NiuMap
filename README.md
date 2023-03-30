@@ -1,4 +1,4 @@
-<img width="64" src="https://user-images.githubusercontent.com/86880683/226280822-2f2e806a-a6da-4111-a154-c27f4253a09d.png"/>
+<img width="64" src="https://user-images.githubusercontent.com/86880683/226280822-2f2e806a-a6da-4111-a154-c27f4253a09d.png"  align="left"/>
 
 # NiuMap
 
